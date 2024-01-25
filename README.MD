@@ -33,4 +33,6 @@ INSERT INTO data (nama, alamat, no_hp) VALUES
 ```
 Paste the github files into XAMPP/htdocs
 
+### Access URL
+Open in browser : https://localhost/CRUD
 
